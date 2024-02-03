@@ -27,7 +27,13 @@ Units of energy consumed, Natural gas consumed ,..etc are different for differen
 Using DAX, created calculated columns, to make analyze the data.
 Created Visualizations to make meaning out of the data.
 
-EDA Insights
+
+![page 1](https://github.com/nandakishore2696/Greenhouse_Gas_Emission_Analysis-/assets/139628432/66dfb730-01e8-457b-95bf-285b0cfbc3d1)
+
+![page 2](https://github.com/nandakishore2696/Greenhouse_Gas_Emission_Analysis-/assets/139628432/76a36f23-0ba6-45bf-8d3d-cfdf1dddd5b1)
+
+
+EDA Insights : 
 
 From 2012, the greenhouse gas emissions are reducing YOY (year on year), even though the electricity consumption is increased YOY
 
@@ -47,7 +53,7 @@ The usage of fuel is showing a decreasing trend continuously
 
 The usage of natural gas and propane is of no change with ups and downs.
 
-Suggestions
+Suggestions : 
 
 Should instruct school boards to use renewable energy as they are the primary greenhouse emitters. 
 Using renewable energy in school boards will change the ideology of the students , who are the future of the country.
